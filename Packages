@@ -1,0 +1,24 @@
+Package: com.anlai.omnicar
+Name: CarPlay Pro (iOS 16)
+Version: 1.0.3+ios16r4.10.voice120
+Architecture: iphoneos-arm64
+Maintainer: Local compatibility build
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, firmware (>= 16.0), firmware (<< 17.0)
+Conflicts: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
+Replaces: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
+Description: OmniCar iOS 16 R2 combined with Voice integrated120 and shared online activation.
+ Voice is available in OmniCar Features as Ra lenh giong noi.
+ License management is a separate top-level OmniCar section.
+ Signed device-bound activation gates original OmniCar enable checks and Voice.
+ Local experimental integration, not an official OmniCar release.
+ Respring after installation. First device validation required.
+Installed-Size: 14445
+Filename: CarPlay-Pro-iOS16-R4.10-Voice120.deb
+Size: 8182554
+MD5sum: d406f63994e8edd9a7c1cc665776b1b1
+SHA256: 39502c0153846ecf699749c7b38c00756316ee45e929376a6c82b04c8a923ee6
+Depiction: https://hoangnamsilver.github.io/repo/index.html
+SileoDepiction: https://hoangnamsilver.github.io/repo/depiction.json
+Icon: https://hoangnamsilver.github.io/repo/CydiaIcon.png
+

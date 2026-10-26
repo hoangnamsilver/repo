@@ -1,0 +1,18 @@
+Origin: CarPlay Pro
+Label: CarPlay Pro
+Suite: stable
+Codename: carplay-pro
+Architectures: iphoneos-arm64
+Components: main
+Description: CarPlay Pro for iOS 16 rootless
+Date: Mon, 26 Oct 2026 16:11:03 GMT
+MD5Sum:
+ 29403f69c0af739f8c3ddbea6d8f27ee 1535 Packages
+ a0fcc87f1ee08d6a0c3676bf5e67848c 762 Packages.gz
+ 528ee57b8e96adb2b15267901dd7a9a8 883 Packages.bz2
+ b84a3c2c73d6878e4429468b7d9575c6 848 Packages.xz
+SHA256:
+ 18ce84dccdfea1e4caadb61f0a963be2d364d397e837f616395180ac8909f766 1535 Packages
+ ca43edadfe9f7e95b4a32887199dbe3e026a01493205ea855cc3376a31e03287 762 Packages.gz
+ bbe1b4787581b0d6cf2df06ebeb7a2ef572976037e61429cf30e030b51f8ac72 883 Packages.bz2
+ 7670dbab78ff75f37cf40f6201e778248908253703c5cc9c4a333404ed8dba09 848 Packages.xz

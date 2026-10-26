@@ -1,0 +1,32 @@
+{
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Thông tin",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "CarPlay Pro R4.10"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Dành cho iOS 16 jailbreak rootless. Cần key kích hoạt.\n\nRa lệnh giọng nói, chia màn hình và thời tiết theo địa danh.\n\nBản này chưa được xác nhận hoạt động thực tế trên iPhone và xe."
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.3+ios16r4.10.voice120"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Đây là phiên bản được phát triển từ bản gốc OmniCar 1.0.3"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Liên hệ Zalo : 0877.82.3333 để mua Key hoặc lấy Key dùng thử"
+        }
+      ]
+    }
+  ]
+}
