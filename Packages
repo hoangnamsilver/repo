@@ -7,12 +7,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, firmware (>= 16.0), firmware (<< 17.0)
 Conflicts: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
 Replaces: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
-Description: CarPlay Pro R4.12 public test with automatic online Test-key activation.
- Voice is available in OmniCar Features as Ra lenh giong noi.
- License management is a separate top-level OmniCar section.
- Signed device-bound activation gates original OmniCar enable checks and Voice.
- Local experimental integration, not an official OmniCar release.
- Respring after installation. First device validation required.
+Description: Đây là phiên bản được phát triển từ bản gốc OmniCar 1.0.3
 Installed-Size: 14463
 Filename: CarPlay-Pro-iOS16-R4.12-Test1-Voice122.deb
 Size: 8191086
