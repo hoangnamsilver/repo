@@ -7,7 +7,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, firmware (>= 16.0), firmware (<< 17.0)
 Conflicts: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice, com.anlai.omnicar
 Replaces: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice, com.anlai.omnicar
-Description: Đây là phiên bản được phát triển từ bản gốc OmniCar 1.0.3
+Description: CarPlay Pro
 Provides: com.anlai.omnicar
 SileoDepiction: https://hoangnamsilver.github.io/repo/depiction.json
 Filename: CarPlay-Pro-iOS16-2.0.2-Test1-BarToggle25-Permissions1.deb
