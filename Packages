@@ -1,19 +1,32 @@
-Package: com.anlai.omnicar
-Name: CarPlay Pro Test (iOS 16)
-Version: 1.0.3+ios16r4.12.voice122.test1
+Package: com.carplaypro.ios16
+Name: CarPlay Pro (iOS 16 Test)
+Version: 2.0.2+test1.bt25.permissions1
 Architecture: iphoneos-arm64
 Maintainer: Local compatibility build
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, firmware (>= 16.0), firmware (<< 17.0)
-Conflicts: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
-Replaces: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice
+Conflicts: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice, com.anlai.omnicar
+Replaces: carsplash-rootless, carspeed, com.anlai97.speedpop, com.anlai97.carduo, com.anpham.splitcarplay, com.local.omnicar.ios16addons, com.local.omnicar.ios15fit, com.local.omnicar.autosource, com.local.omnicar.voice, com.anlai.omnicar
 Description: Đây là phiên bản được phát triển từ bản gốc OmniCar 1.0.3
-Installed-Size: 14463
-Filename: CarPlay-Pro-iOS16-R4.12-Test1-Voice122.deb
-Size: 8191086
-MD5sum: 01fd4725ea837c7dab255ce294d3afb6
-SHA256: ef0fa3fdded6f9bffb840d7f7084d72ccc248981a1a43c2e05ab0ce5dea5e689
-Depiction: https://hoangnamsilver.github.io/repo/index.html
+Provides: com.anlai.omnicar
 SileoDepiction: https://hoangnamsilver.github.io/repo/depiction.json
-Icon: https://hoangnamsilver.github.io/repo/CydiaIcon.png
+Filename: CarPlay-Pro-iOS16-2.0.2-Test1-BarToggle25-Permissions1.deb
+Size: 3735640
+MD5sum: 7af25fef404e951ab1043bf206b71e2e
+SHA256: 97fb64795f6344ee429d82747acf90fdde35c0901eb7149c2b5528e8cb9ad1ef
+
+Package: com.parrotgeek.globalize
+Name: Globalize fix ch/a
+Depends: mobilesubstrate, firmware (>= 9)
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Maintainer: parrotgeek1
+Author: parrotgeek1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Installed-Size: 552
+Filename: com.parrotgeek.globalize_0.3.2_iphoneos-arm64.deb
+Size: 7918
+MD5sum: 8402d895727fc9fa236bbf7f12a6881a
+SHA256: 6479b8eeb5c364b2ff5ff7162e50091f90cbfc0f331b2b6fa2f748a197cc9a47
 

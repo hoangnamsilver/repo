@@ -4,15 +4,14 @@ Suite: stable
 Codename: carplay-pro
 Architectures: iphoneos-arm64
 Components: main
-Description: CarPlay Pro public test for iOS 16 rootless
-Date: Mon, 26 Oct 2026 16:43:55 GMT
+Date: Thu, 29 Oct 2026 06:34:30 GMT
 MD5Sum:
- 76765e4e53e797210532f8a1da7dbd7f 1214 Packages
- 609a076a3dfa5cc604cb28592c8c677d 628 Packages.gz
- 7b6e0ba390cc8a45f5753664a58b079a 750 Packages.bz2
- 9f7e2c57c7d5ac972e2c8a67d6962b95 692 Packages.xz
+ 28f15b70a7558ecf4be49959e75f46f4 1690 Packages
+ 6a065f348faa5c5c510179320db192ec 846 Packages.gz
+ 50f68e07eb08040f993ea64f6307f7c4 996 Packages.bz2
+ 9afeed2bfefb199b8d3bb7e71db25ce1 908 Packages.xz
 SHA256:
- ffb84653015757fe4a7d0b8ff6d8d9cb7826fc52e6d12044419249ac1c654617 1214 Packages
- e49affc4690057d5c70effcf16687d2bb85fddbddca127613a846d86bd730a26 628 Packages.gz
- 286b016171c8cbfca43e70669e8cdfc702626d52542c847e04fe29c64365236b 750 Packages.bz2
- e3547e3a574ea15703eab93d8201c313c283b776c6b0e06d4a8f2a294848f42e 692 Packages.xz
+ 6b8ee66583783200c4bd5753ceeda394e0a1bd74d039d86bc140fb33d2c14bdf 1690 Packages
+ aaa656a3d2a7a3a35fade992a29cba0f2508c6612493d6742af6e40033a7d496 846 Packages.gz
+ 1be95ac2305574f289b08bdcdac5e24756f879fe97ad0977557785d98f1fda2a 996 Packages.bz2
+ 93bfbcf07fbdf7306723b251b3683aafccc0aeb7b73df6746f094838c342c64e 908 Packages.xz
